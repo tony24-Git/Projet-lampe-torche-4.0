@@ -8,7 +8,7 @@
         android:allowBackup="true"
         android:label="Lampe Torche"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar">
+        android:theme="@style/Theme.TorchApp">
         <activity
             android:name=".MainActivity"
             android:exported="true">
